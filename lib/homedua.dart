@@ -164,7 +164,7 @@ class _HomeDuaState extends State<HomeDua> {
                                         borderRadius:
                                             BorderRadius.circular(12)),
                                     child: Icon(
-                                      Icons.menu,
+                                      Icons.dashboard,
                                       size: 60,
                                       color: Colors.white,
                                     ),
