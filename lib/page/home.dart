@@ -21,7 +21,7 @@ class _HomeHomeState extends State<HomeHome> {
           child: Container(
             
             child: Padding(
-              padding: EdgeInsets.all(12),
+              padding: EdgeInsets.all(13),
               child: Column(children: [
                 Padding(
                   padding: const EdgeInsets.only(top:1.0),
